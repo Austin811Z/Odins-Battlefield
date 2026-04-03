@@ -1,1 +1,1 @@
-# Odins-Battlefield
+Project [Odins-Battlefield](https://www.theodinproject.com/lessons/node-path-javascript-battleship)
